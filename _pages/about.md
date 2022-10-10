@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning, Internet, Cognitive Science, Social Science, Exploration Engine
+subtitle: Machine Learning | Internet | Cognitive Science | Social Science | Exploration Engine
 
 profile:
   align: right
