@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Machine Learning, Internet, Cognitive Science, Social Science, Exploration Engine
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Institut Jean Nicod</p>
+    <p>29 rue d'Ulm</p>
+    <p>75005 Paris, France</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Phd Student at [ENS Paris] (<https://www.computationalculturalsciences.com/charles-de-dampierre>) & a Research Engineer at [SciencePo Medialab] (<https://medialab.sciencespo.fr/en/people/charles-de-dampierre/>). I am mostly interested in understanding how Social Media and the Internet work and how we can use algorithm sto explore the web more meaningfully and more efficiently while reducing biais and leveraging Collective Intelligence.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am specialist in Natural Language Processing and Networks but I also have a background in Business, in Cognitive Science & in Social Science.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also created [Bunka](https://www.bunka.ai/) an Exploration Engine which goal is to aggregate and summarise information on the web and display it in new innovative way.
+
+You can find my blog here and my publications here (/al-folio/publications/). You can contact me any time, I am always happy to discuss new ideas.
