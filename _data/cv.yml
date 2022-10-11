@@ -30,27 +30,24 @@
 - title: Experience
   type: time_table
   contents:
-    - title: CEO
+    - title: CEO - Founder
       institution: Bunka
       year: 2022 - now
-    - title: Noese
-      institution: Data Scientist
+    - title: Research Engineer
+      institution: Science Po Médialab
       year: 2021 - now
-    - title: Startup Business & Partnerships
+    - title: Data Scientist
+      institution: Noese
+      year: 2021 - now
+    - title: Intern Startup Business & Partnerships
       institution: Google, Paris, France
-      year: January - July 2018
-    - title: Business Developer
+      year: 2018
+    - title: Intern Business Developer
       institution: Sociabble
-      year: January - August 2017
+      year: 2017
     - title: Intern at the Head if Strategy
       institution: ENGIE
-      year: August - December 2016
+      year: 2016
     - title: Student Brand Manager
       institution: Red Bull
-      year: September 2015 - June 2016
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/charlesedampierre/BunkaTopics"</a>
-      year: 2022-now
+      year: 2015
