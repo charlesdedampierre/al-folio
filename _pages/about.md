@@ -24,4 +24,6 @@ I am specialist in Natural Language Processing and Networks. I have a background
 
 I created [Bunka](https://www.bunka.ai/) an Exploration Engine which goal is to aggregate and summarise information on the web and display it in new innovative way.
 
-Feel free to contact me at the following address: charles.de-dampierre@hec.edu
+Feel free to contact me at the following address:
+
+charles.de-dampierre@hec.edu
