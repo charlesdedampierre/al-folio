@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning | Internet | Cognitive Science | Social Science | Exploration Engine
+subtitle: AI | Machine Learning | Internet | Cognitive Science | Social Science | Exploration Engine
 
 profile:
   align: right
@@ -18,12 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Phd Student at [ENS Paris](<https://www.computationalculturalsciences.com/charles-de-dampierre>) & a Research Engineer at [SciencePo Medialab](<https://medialab.sciencespo.fr/en/people/charles-de-dampierre/>). I am mostly interested in understanding how Social Media and the Internet work and how we can use algorithm sto explore the web more meaningfully and more efficiently while reducing biais and leveraging Collective Intelligence.
+I am a Phd Student at [ENS Paris](<https://www.computationalculturalsciences.com/charles-de-dampierre>) in Computational Social Science & a former Research Engineer at [SciencePo Medialab](<https://medialab.sciencespo.fr/en/people/charles-de-dampierre/>). I am mostly interested in understanding how LLMs are trained and what data are used to do so. I have a background in Business, Cognitive Science & Social Science. Some of my work is also about quantitative history and the different methods to estimate standards of livings in the past.
 
-I am specialist in Natural Language Processing and Networks. I have a background in Business, in Cognitive Science & in Social Science.
-
-I created [Bunka](https://www.bunka.ai/) an Exploration Engine which goal is to aggregate and summarise information on the web and display it in new innovative way.
+I created [Bunka](https://www.bunka.ai/) an Exploration Engine which goal is to better visualise and explore the trainign datasets of AI.
 
 Feel free to contact me at the following address:
 
-charles.de-dampierre@hec.edu
+<charlesdedampierre@gmail.com>
