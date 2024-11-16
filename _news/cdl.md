@@ -5,4 +5,4 @@ title: Bunka Joins Creative Destruction Lab AI Track
 inline: true
 ---
 
-Bunka is excited to join the [Creative Destruction Lab](https://www.creativedestructionlab.com/) on the AI track. This inclusion in the incubator marks a significant step forward in our mission to integrate AI more deeply into organizational and web-based information systems.
+Bunka is excited to join the Creative Destruction Lab on the AI track. This inclusion in the incubator marks a significant step forward in our mission to integrate AI more deeply into organizational and web-based information systems.
