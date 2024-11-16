@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI | Machine Learning | Internet | Cognitive Science | Social Science | Exploration Engine
+subtitle: AI | LLMs | Active Learning | Cognitive Science | Social Science | Exploration Engine
 
 profile:
   align: right
